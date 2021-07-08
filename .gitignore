@@ -102,20 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
-public/404.html
-public/app-1721126b8af3ad4a5ff9.js
-public/app-1721126b8af3ad4a5ff9.js.map
-public/chunk-map.json
-public/component---src-pages-index-tsx-8134a96eb21e804b16bc.js
-public/component---src-pages-index-tsx-8134a96eb21e804b16bc.js.map
-public/framework-19e606906e0ac02a5630.js
-public/framework-19e606906e0ac02a5630.js.LICENSE.txt
-public/framework-19e606906e0ac02a5630.js.map
-public/index.html
-public/polyfill-1cd1ba1f08acaf1f2420.js
-public/polyfill-1cd1ba1f08acaf1f2420.js.map
-public/webpack-runtime-f6759f1aea2b0cac5197.js
-public/webpack-runtime-f6759f1aea2b0cac5197.js.map
-public/webpack.stats.json
-public/page-data/app-data.json
-public/page-data/index/page-data.json
+
+# buile file
+public/
